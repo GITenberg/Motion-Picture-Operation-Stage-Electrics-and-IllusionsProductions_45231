@@ -1,0 +1,34 @@
+_repo: Motion-Picture-Operation-Stage-Electrics-and-IllusionsProductions_45231
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45231-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Tousley, Victor H. (Victor Hugo)
+    birthdate: 1875
+    gutenberg_agent_id: '43160'
+    url: http://www.gutenberg.org/2009/agents/43160
+  - agent_name: Horstmann, Henry Charles
+    alias: Horstmann, Henry C.
+    gutenberg_agent_id: '43159'
+    url: http://www.gutenberg.org/2009/agents/43159
+description: ''
+gutenberg_issued: '2014-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45231'
+  lccn: '14012858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electric wiring, Interior'
+- !lcc 'PN'
+- !lcsh 'Motion picture projection'
+- !lcsh 'Motion picture theaters'
+title: "Motion Picture Operation, Stage Electrics and Illusions\r\nA Practical Hand-book\
+  \ and Guide for Theater Electricians, Motion Picture Operators and Managers of Theaters\
+  \ and Productions"
+url: http://www.gutenberg.org/ebooks/45231
